@@ -2,5 +2,5 @@
 title: "About The SNP pit"
 ---
 
-TheSNPpit is a database system to efficiently process and manage very large amounts of SNP data. Have a look at the [User Guide](ftp://ftp.tzv.fal.de/pub/TheSNPpit/TheSNPpit-user-guide-latest.pdf) for more details. 
+TheSNPpit is a database system to efficiently process and manage very large amounts of SNP data. Have a look at the [User Guide](https://tsp-repo.thesnppit.net/resources/TheSNPpit-user-guide-latest.pdf) for more details. 
 

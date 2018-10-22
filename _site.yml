@@ -5,8 +5,11 @@ navbar:
     - text: "Resources"
       href: resources.html
     - text: "Download"
-      href: download.html
+      href: download.html 
     - text: "Contact"
       href: contact.html
     - text: "About"
       href: about.html
+    - text: "Blog"
+      href: blog.html
+      

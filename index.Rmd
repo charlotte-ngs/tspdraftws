@@ -1,5 +1,5 @@
 ---
-title: "Welcome To The SNP pit"
+title: "Welcome To TheSNPpit"
 ---
 
 ```{r logo, echo=FALSE}

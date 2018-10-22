@@ -10,3 +10,5 @@ Contact form with the following fields
 * E-Mail
 * Country
 * Question
+
+Target e-mail address: info@thesnppit.net
