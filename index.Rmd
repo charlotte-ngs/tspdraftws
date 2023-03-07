@@ -8,3 +8,8 @@ knitr::include_graphics(path = "images/Logo_theSNPpit.png")
 
 
 The new website for TheSNPpit is still under construction ...
+
+```{r latestchange, echo=FALSE, results='asis'}
+cat(rmddochelper::get_latest_change())
+```
+
